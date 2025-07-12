@@ -76,6 +76,7 @@
     "Latvia": "Europe, Middle East, & Africa",
     "Malta": "Europe, Middle East, & Africa",
     "Georgia": "Europe, Middle East, & Africa",
+    "luxembourg": "Europe, Middle East, & Africa",
     "Jordan": "Europe, Middle East, & Africa",
     "Lebanon": "Europe, Middle East, & Africa",
     "Chad": "Europe, Middle East, & Africa",
@@ -114,5 +115,6 @@
     "Chile": "Latin America",
     "Argentina": "Latin America",
     "Venezuela": "Latin America",
-    "Uruguay": "Latin America"
+    "Uruguay": "Latin America",
+    "Guatemala": "Latin America"
 }
