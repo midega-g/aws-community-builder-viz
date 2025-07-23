@@ -10,7 +10,11 @@ To interact with the visualization follow these links:
 
 - **AWS Community Builders:** [Power BI Dashboard](https://app.powerbi.com/view?r=eyJrIjoiMTc4Mzk2NGUtZDdhYS00NWNiLWI5MTAtYTE1MmM3YjFjZGUzIiwidCI6Ijc0NDczNDI5LTA5ODMtNDg1OS04ZDU5LWJlODRhNzRjZmFkOCJ9)
 
+<img width="1087" height="592" alt="Screenshot from 2025-07-24 02-11-03" src="https://github.com/user-attachments/assets/d6ae7bbd-fa80-4315-bc7d-08c63141432e" />
+
 - **AWS Heroes:** [Power BI Dashboard](https://app.powerbi.com/view?r=eyJrIjoiNDM5YTA2ZTYtMWVhYS00NWEyLWFiNmEtNjQwNGI1OTgzMGU1IiwidCI6Ijc0NDczNDI5LTA5ODMtNDg1OS04ZDU5LWJlODRhNzRjZmFkOCJ9)
+
+<img width="1042" height="601" alt="Screenshot from 2025-07-24 02-11-39" src="https://github.com/user-attachments/assets/637a35c7-ba4d-4de1-880c-7ce349fcf916" />
 
 - **AWS User Groups:** Coming Soon...
 
