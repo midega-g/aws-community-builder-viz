@@ -24,9 +24,7 @@ To interact with the visualization follow these links:
 aws_cleaned_data/
 ├── data/                      # Data files
 │   ├── aws_heroes_cleaned.csv # Cleaned AWS Heroes data
-│   ├── aws_heroes_raw.csv     # Raw AWS Heroes data
 │   ├── community_builders.csv # Cleaned Community Builders data
-│   ├── community_builders_raw.csv # Raw Community Builders data
 │   └── country_regions.json   # Country to region mapping
 ├── notebooks/                 # Jupyter notebooks
 │   ├── clean_cb_data.ipynb    # Community Builders data cleaning
